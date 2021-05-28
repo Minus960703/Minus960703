@@ -9,7 +9,9 @@ I'm <strong>Amateur Developer</strong> now!
 제 이름은 최진우 입니다<br>
 아마추어 개발자입니다!
 
-
+<style>
+  img { display: block;}  
+</style
 
 <h3> 🛠 My Tech </h3>
 <div style="display=flex;">
