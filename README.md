@@ -8,7 +8,23 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-</div
+</div>
+
+
+
+<div style="display:flex;">
+<a href="https://instagram.com/jin_woo96_/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</div>
+
 
 <!--
 **Minus960703/Minus960703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
