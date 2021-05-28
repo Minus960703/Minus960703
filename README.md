@@ -45,12 +45,17 @@ I'm <strong>Amateur Developer</strong> now!
 <div style="display:flex; margin-top:20px;">
 <a href="https://instagram.com/jin_woo96_/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jin_woo96_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://velog.io/@cjw960703">
+    <img 
+        src="http://img.shields.io/badge/Velog-184D66?style=flat&logo=vector-logo-zone&link=https://velog.io/@cjw960703"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
