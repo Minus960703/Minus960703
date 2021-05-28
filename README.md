@@ -10,10 +10,10 @@ I'm <strong>Amateur Developer</strong> now!
 
 
 <h3> 🛠 My Tech </h3>
-<div style="display=flex;">
-  ![PYTHON](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
-  ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+<div style="display=flex; pointer-events: none;">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
 </div>
 
 
