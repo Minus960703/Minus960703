@@ -1,9 +1,14 @@
-## Welcome! All visitors!
-### Hi there 👋
+## Welcome! All visitors!<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinus960703&count_bg=%23CE6CE3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinus960703&count_bg=%23CE6CE3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+<br>
+👋 I'm Jinwoo Choi from Korea (<strong>Not North</strong>)
+I'm <strong>Amateur Developer</strong> now
+<br>
+제 이름은 최진우 입니다
 
-<h3 align="center"> 🛠 My Tech </h3>
+
+
+<h3> 🛠 My Tech </h3>
 <div style="display=flex;">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -12,7 +17,7 @@
 
 
 
-<div style="display:flex;">
+<div style="display:flex; margin-top:20px;">
 <a href="https://instagram.com/jin_woo96_/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
