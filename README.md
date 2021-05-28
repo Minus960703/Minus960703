@@ -1,6 +1,6 @@
-<div style="display:flex;">
+
 ## Welcome! All visitors! <div style="float:right;"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinus960703&count_bg=%23CE6CE3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></div>
-</div>
+
 <br>
 👋 I'm Jinwoo Choi from Korea (<strong>Not North</strong>)<br>
 I'm <strong>Amateur Developer</strong> now!
