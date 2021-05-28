@@ -9,14 +9,10 @@ I'm <strong>Amateur Developer</strong> now!
 제 이름은 최진우 입니다<br>
 아마추어 개발자입니다!
 
-<style>
-  img { display: block;}  
-</style
-
 <h3> 🛠 My Tech </h3>
 <div style="display=flex;">
   <h4> Web Tech </h4>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="display:block;"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
