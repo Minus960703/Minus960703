@@ -6,7 +6,7 @@
 I'm <strong>Amateur Developer</strong> now!
 <br>
 <hr>
-제 이름은 최진우 입니다<br>
+제 이름은 <strong>최진우</strong> 입니다<br>
 아마추어 개발자입니다!
 
 <h3> 🛠 My Tech </h3>
