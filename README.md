@@ -45,7 +45,7 @@ I'm <strong>Amateur Developer</strong> now!
 <div style="display:flex; margin-top:20px;">
 <a href="https://instagram.com/jin_woo96_/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jin_woo96_/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/zzzi.nooo/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://minus960703.github.io">
