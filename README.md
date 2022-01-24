@@ -3,7 +3,7 @@
 
 <br>
 👋 I'm Jinwoo Choi from Korea (<strong>Not North</strong>)<br>
-I'm <strong>Amateur Developer</strong> now!
+I'm <strong>Junior Developer</strong> now!
 <br>
 <hr>
 제 이름은 <strong>최진우</strong> 입니다<br>
